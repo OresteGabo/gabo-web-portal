@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[17165,["/gabo-web-portal/_next/static/chunks/478b8bc3de5f5bb4.js","/gabo-web-portal/_next/static/chunks/a4e8b09097b5e532.js"],"ClientPageRoot"]
+3:I[5665,["/gabo-web-portal/_next/static/chunks/1db035c8dc946aa5.js","/gabo-web-portal/_next/static/chunks/98677ee313301d3a.js"],"default"]
+6:I[54817,["/gabo-web-portal/_next/static/chunks/478b8bc3de5f5bb4.js","/gabo-web-portal/_next/static/chunks/a4e8b09097b5e532.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"buildId":"KKaiNPatHmCobLrIdYwIL","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/gabo-web-portal/_next/static/chunks/1db035c8dc946aa5.js","async":true}],["$","script","script-1",{"src":"/gabo-web-portal/_next/static/chunks/98677ee313301d3a.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
